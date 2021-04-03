@@ -1,0 +1,28 @@
+Title: Belveas
+
+Genre: 3D Action/Adventure
+
+Setting: The plains of Belveas, a land protected by mysterious forces
+
+Story: The sacred gems of Belveas have been stolen and spread across the land. As the guardian of the gems, it is your duty to search for and secure them for the protection of the land.
+
+Similar Games:
+-Super Mario 64
+-Banjo-Kazooie
+
+Features:
+-Collectibles that are required for progression
+-Enemies the player can defeat
+-Collectibles that assist the player (healing, invincibility, etc.)
+-Ability to travel back and forth between levels
+-A means of tracking the player's progress
+-Pony list:
+	-Combat (with weapons)
+	-Level select
+	-Permanent upgrades
+
+Personal Focus:
+I want to put a focus on making a game that feels like a full experience. I can put a good amount of content in my game, but the games
+I have made feel too short to be considered actual games. I've put a lot of focus on the programming aspect of my games, which doesn't
+give me a lot of time to flesh out the actual game, so I want to make sure that's not the case with this game. Granted, there's only
+so much one person can do in the span of four weeks, but I'm confident that I can make a fleshed-out experience with this project.
